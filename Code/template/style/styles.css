@@ -1,0 +1,84 @@
+
+#head_com{
+    font-family: "Arial Black";
+    margin-top: 3%;
+}
+
+#head_com hr{
+    margin:auto; margin-bottom: 2%; color:black; background-color:#70a1ff; height:5px; opacity: 0.7; width: 80px;
+}
+
+#categories{
+    margin-left: auto;
+}
+
+#barre_de_recherche{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.menu_deroulant>div{
+    color: #70a1ff;
+}
+
+#card_article{
+    width:22%;
+    border-radius:15px;
+    margin: 1%;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.card-image>figure>img{
+    border-radius:15px;
+}
+#subtile_article{
+    margin-left: 5%;
+}
+
+#card_article_suggest{
+    width:30%;
+    height: 35%;
+    border-radius:15px;
+    margin: 1%;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+#abos{
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px
+}
+
+#card_recherche{
+    display: inline-block;
+    width:30%;
+    border-radius:15px;
+    margin-top: 1%;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+#abos button{
+    border-radius: 50px;
+}
+
+.subtile{
+    color: #70a1ff;
+}
+
+#vue_gestion{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+#vue_gestion .media-content{
+    margin-top: 3%;
+}
