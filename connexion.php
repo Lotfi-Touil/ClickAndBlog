@@ -4,7 +4,7 @@ class Connexion
 {
     protected static $bdd;
 
-      private static $dns = 'mysql:host=database-etudiants.iut.univ-paris8.fr;dbname=;charset=utf8';
+      private static $dns = 'mysql:host=;dbname=;charset=utf8';
       private static $user = '';
       private static $password  = '';
 
@@ -19,5 +19,3 @@ class Connexion
 
     }
 }
-
-?>
